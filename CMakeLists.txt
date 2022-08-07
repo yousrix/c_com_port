@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.22)
+project(cuart)
+
+set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY "${PROJECT_BINARY_DIR}/lib")
+set(CMAKE_LIBRARY_OUTPUT_DIRECTORY "${PROJECT_BINARY_DIR}/lib")
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${PROJECT_BINARY_DIR}/lib")
+add_library(uart_lib SHARED  uart_lib.c uart_lib.h)
+add_executable(cuart uart_lib.c uart_lib.h main.c)
+install(TARGETS cuart DESTINATION "${CMAKE_BINARY_DIR}/bin")
+install(TARGETS uart_lib DESTINATION "${CMAKE_BINARY_DIR}/bin")

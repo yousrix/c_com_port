@@ -1,0 +1,3 @@
+C:/Users/MSI/Desktop/Flutter_/cuart/cmake-build-release/bin/cuart.exe
+C:/Users/MSI/Desktop/Flutter_/cuart/cmake-build-release/bin/libuart_lib.dll.a
+C:/Users/MSI/Desktop/Flutter_/cuart/cmake-build-release/bin/libuart_lib.dll

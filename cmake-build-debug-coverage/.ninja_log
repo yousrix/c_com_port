@@ -1,0 +1,16 @@
+# ninja log v5
+7	1056	6811377751490226	CMakeFiles/cuart.dir/main.c.obj	de8aa85ddd0d4005
+1	1094	6811377751861739	CMakeFiles/cuart.dir/uart_lib.c.obj	5ae26e48b27d4a3f
+1095	1232	6811377753220761	lib/cuart.exe	e5cce6c0fa46022
+3	870	6811379836121628	CMakeFiles/cuart.dir/uart_lib.c.obj	5ae26e48b27d4a3f
+871	998	6811379837353551	lib/cuart.exe	e5cce6c0fa46022
+3	1036	6811380464334703	CMakeFiles/cuart.dir/main.c.obj	de8aa85ddd0d4005
+1037	1154	6811380465488405	lib/cuart.exe	e5cce6c0fa46022
+3	839	6811381140035541	CMakeFiles/cuart.dir/main.c.obj	de8aa85ddd0d4005
+840	972	6811381141316344	lib/cuart.exe	e5cce6c0fa46022
+3	956	6811381428491655	CMakeFiles/cuart.dir/uart_lib.c.obj	5ae26e48b27d4a3f
+957	1075	6811381429645352	lib/cuart.exe	e5cce6c0fa46022
+2	823	6811390324908286	CMakeFiles/uart_lib.dir/uart_lib.c.obj	75c54760dbf00735
+824	941	6811390326052220	lib/libuart_lib.dll	dd137f72ea63126d
+824	941	6811390326052220	lib/libuart_lib.dll.a	dd137f72ea63126d
+941	991	0	CMakeFiles/install.util	6bb3b19f09d6d069
