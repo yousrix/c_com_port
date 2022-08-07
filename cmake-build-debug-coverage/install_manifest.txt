@@ -1,3 +1,0 @@
-C:/Users/MSI/Desktop/Flutter_/cuart/cmake-build-debug-coverage/bin/cuart.exe
-C:/Users/MSI/Desktop/Flutter_/cuart/cmake-build-debug-coverage/bin/libuart_lib.dll.a
-C:/Users/MSI/Desktop/Flutter_/cuart/cmake-build-debug-coverage/bin/libuart_lib.dll

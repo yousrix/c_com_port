@@ -1,8 +1,0 @@
-C:/Users/MSI/Desktop/Flutter_/cuart/cmake-build-debug/CMakeFiles/uart_lib.dir
-C:/Users/MSI/Desktop/Flutter_/cuart/cmake-build-debug/CMakeFiles/cuart.dir
-C:/Users/MSI/Desktop/Flutter_/cuart/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/MSI/Desktop/Flutter_/cuart/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/MSI/Desktop/Flutter_/cuart/cmake-build-debug/CMakeFiles/list_install_components.dir
-C:/Users/MSI/Desktop/Flutter_/cuart/cmake-build-debug/CMakeFiles/install.dir
-C:/Users/MSI/Desktop/Flutter_/cuart/cmake-build-debug/CMakeFiles/install/local.dir
-C:/Users/MSI/Desktop/Flutter_/cuart/cmake-build-debug/CMakeFiles/install/strip.dir
